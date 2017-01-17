@@ -1,0 +1,37 @@
+<files>
+  <file
+  	name='DictyFinal.gff3'
+  	title='Genome Annotation'
+  	description = 'Contains gene annotation downloaded without sequencing center from dictybase ' 
+	label_field='id'
+	name_size='12'
+  />
+  <file
+  	name='NewAssembly.gtf'
+  	title='Assembly'
+  	description='Strain AX4'
+  	label_field='HSP'
+  	name_size='12'
+  />
+  <file
+        name='pasa_dicty_Alt_Para_Annot.pasa_assemblies.bed'
+        title='PASA1'
+        description='Strain AX4'
+        label_field='cDNA_match'
+        name_size='12'
+   />
+   <file
+        name = 'pasa_dicty_Alt_Para_Annot.gene_structures_post_PASA_updates.26087.bed'
+        title='PASA2'
+        description='Strain AX4'
+        label_field='protein'
+        name_size='12'
+   />
+  <file
+  	name ='accepted_hits.bam_sortIGV.bam'
+  	title ='Input aligned reads'
+  	description='Input reads used for assembly align to the genome'
+  	label_field = 'none'
+  	name_size = '12'
+  />
+</files>
