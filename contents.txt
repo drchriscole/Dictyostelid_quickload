@@ -1,0 +1,4 @@
+D_discoideum_Ax4_May_2009	Dictyostelium discoideum 
+Dictyostelium_fasciculatum	Dictyostelium fasciculatum
+Dictyostelium_lacteum	Dictyostelium lacteum	
+Polysphondylium_pallidum	Polysphondylium pallidum

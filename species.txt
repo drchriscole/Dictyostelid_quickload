@@ -1,0 +1,4 @@
+Dictyostelium discoideum	D.discoideum	D_discoideum	Dicty
+Dictyostelium fasciculatum	D.fasciculatum	D_fasciculatum	Dfas
+Dictyostelium lacteum	D.lacteum	D_lacteum	Dlac
+Polysphondylium pallidum	P.pallidum	P_pallidum	Ppal
