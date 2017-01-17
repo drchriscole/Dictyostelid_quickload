@@ -15,14 +15,14 @@
   />
   <file
         name='pasa_dicty_Alt_Para_Annot.pasa_assemblies.bed'
-        title='PASA1'
+        title='PASAaa'
         description='Strain AX4'
         label_field='cDNA_match'
         name_size='12'
    />
    <file
         name = 'pasa_dicty_Alt_Para_Annot.gene_structures_post_PASA_updates.26087.bed'
-        title='PASA2'
+        title='PASAua'
         description='Strain AX4'
         label_field='protein'
         name_size='12'

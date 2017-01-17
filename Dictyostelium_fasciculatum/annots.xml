@@ -15,14 +15,14 @@
   />
   <file
         name='pasa_Dictyostelium_Fasciculatum_Assembly.pasa_assemblies.bed'
-        title='PASA1'
+        title='PASAaa'
         description='Dictyostelium Fasciculatum Pasa transcript assembly'
         label_field='cDNA_match'
         name_size='12'
    />
    <file
    	name='pasa_Dictyostelium_Fasciculatum_Assembly.gene_structures_post_PASA_updates.64734.bed'
-   	title='PASA2'
+   	title='PASAua'
    	description='Dictyostelium Fasciculatum Pasa transcript updation with existing annotation'
    	label_field='protein'
    	name_size='12'
