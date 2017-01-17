@@ -15,15 +15,15 @@
   />
   <file
         name='pasa_Pallidum_Gernot.pasa_assemblies.bed'
-        title='PASA1'
-        description='Strain AX4'
+        title='PASAaa'
+        description='PASA transcript refinement'
         label_field='cDNA_match'
         name_size='12'
    />
    <file
    	name='pasa_Pallidum_Gernot.gene_structures_post_PASA_updates.40475.bed'
-   	title='PASA2'
-   	description='Strain AX4'
+   	title='PASAua'
+   	description='PASA updated annotation'
    	label_field='protein'
    	name_size='12'
    />
