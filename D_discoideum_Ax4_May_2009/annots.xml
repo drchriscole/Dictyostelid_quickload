@@ -1,6 +1,6 @@
 <files>
   <file
-  	name='DictyFinal.gff3'
+  	name='DictyFinal.gff'
   	title='Genome Annotation'
   	description = 'Contains gene annotation downloaded without sequencing center from dictybase ' 
 	label_field='id'
